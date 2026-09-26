@@ -1,0 +1,27 @@
+RETRO DISCORD BOTU - GİZLİLİK POLİTİKASI (PRIVACY POLICY)
+Son Güncelleme: 26 Eylül 2026
+
+Retro ("Bot"), kullanıcı gizliliğine önem verir. Bu politika, botun hangi verileri topladığını, bu verilerin nasıl kullanıldığını ve nasıl saklandığını açıklamaktadır.
+
+1. Toplanan Veriler
+Retro, yalnızca sunduğu özellikleri (moderasyon, kayıt, ceza geçmişi ve istatistikler) gerçekleştirmek için gereken asgari verileri işler:
+- Kullanıcı Bilgileri: Discord Kullanıcı ID'si, kullanıcı adı.
+- Sunucu Verileri: Sunucu ID'si, kanal ID'leri, rol ID'leri.
+- Aktivite Verileri: Ses kanallarında geçirilen süre, genel metin kanallarındaki mesaj sayıları (mesaj içerikleri kesinlikle kaydedilmez ve depolanmaz).
+- Moderasyon Kayıtları: Ceza puanları, yetkili tarafından verilen ceza geçmişi (mute, jail, uyarı ve tarihleri).
+
+2. Verilerin Kullanım Amacı
+Toplanan veriler yalnızca aşağıdaki amaçlarla kullanılır:
+- Sunucu içi ceza ve sicil takibinin doğru yapılması,
+- Seviye, rütbe ve sunucu içi istatistik (top ses/mesaj) tablolarının oluşturulması,
+- Sunucu güvenliği ve yetkili denetim mekanizmalarının işletilmesi.
+
+3. Verilerin Saklanması ve Güvenliği
+- Verileriniz şifrelenmiş ve güvenli bulut veritabanlarında saklanır.
+- Veriler hiçbir koşulda üçüncü şahıslara, reklam şirketlerine satılmaz veya devredilmez.
+
+4. Veri Silme Talepleri (Haklarınız)
+Kullanıcılar kendilerine ait kayıtlı verilerin (istatistik, sicil vb.) silinmesini talep etme hakkına sahiptir. Sunucu yöneticilerine başvurarak veya botun geliştiricisiyle iletişime geçerek verilerinizin sistemden kalıcı olarak temizlenmesini isteyebilirsiniz.
+
+5. İletişim
+Gizlilik politikamız veya verilerinizle ilgili sorularınız için Discord üzerinden bot geliştiricisi ile iletişime geçebilirsiniz.
